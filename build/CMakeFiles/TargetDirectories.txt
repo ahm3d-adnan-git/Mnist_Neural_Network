@@ -1,0 +1,3 @@
+/mnt/d/Winter 2024/AdvPT Exercises/MnistProjFinal/Mnist_lund_proj/build/CMakeFiles/Neural_Network.dir
+/mnt/d/Winter 2024/AdvPT Exercises/MnistProjFinal/Mnist_lund_proj/build/CMakeFiles/edit_cache.dir
+/mnt/d/Winter 2024/AdvPT Exercises/MnistProjFinal/Mnist_lund_proj/build/CMakeFiles/rebuild_cache.dir

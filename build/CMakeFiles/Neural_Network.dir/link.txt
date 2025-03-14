@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Neural_Network.dir/src/main.cpp.o CMakeFiles/Neural_Network.dir/src/neural_network.cpp.o CMakeFiles/Neural_Network.dir/src/read_mnist.cpp.o -o Neural_Network  -lopenblas -lgomp -Wl,-Bstatic -lpthread -Wl,-Bdynamic 
